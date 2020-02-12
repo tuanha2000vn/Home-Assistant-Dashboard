@@ -18,3 +18,11 @@ Sometime, we can't login to Home Assistant server due to network, server, device
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-3.png?raw=true)
 <br>
 3. Copy the token to your clipboard, click OK then send yourself an email include the newly created token
+<br><br><br>
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-4.png?raw=true)
+<br>
+4. Enter your Home Assistant URL and click Manual Token
+<br><br><br>
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-5.png?raw=true)
+<br>
+5. Paste the newly created token and click Connect
