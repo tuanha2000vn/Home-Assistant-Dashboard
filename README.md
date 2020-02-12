@@ -21,7 +21,7 @@ Sometime, we can't login to Home Assistant server due to network, server, device
 <br><br><br>
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-4.png?raw=true)
 <br>
-4. Enter your Home Assistant URL and click Manual Token
+4. Open this app, go to Setting, enter your Home Assistant URL and click Manual Token
 <br><br><br>
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-5.png?raw=true)
 <br>
