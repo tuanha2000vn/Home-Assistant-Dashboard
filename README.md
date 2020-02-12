@@ -9,7 +9,7 @@ Sometime, we can't login to Home Assistant server due to network, server, device
 
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-1.png?raw=true)
-<br>1. Login to your account and click CREATE TOKEN`
+<br>1. Login to your account and click CREATE TOKEN
 <br><br><br>
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual-token-2.png?raw=true)
 <br>
