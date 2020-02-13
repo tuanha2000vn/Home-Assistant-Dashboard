@@ -1,12 +1,13 @@
 # Home Assistant Dashboard
 
 ## My Weather Data Seem Incorrect
-<br>![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/weather-location.png?raw=true)
-This App use Home Assistant location for weather data. Make sure you set your location correct in `Home Assistant Configuration > General Configuration`
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/weather-location.png?raw=true)
+<br>This App use Home Assistant location for weather data. Make sure you set your location correct in `Home Assistant Configuration > General Configuration`
 <br><br><br>
 
 ## Manual Token
-Sometime, we can't login to Home Assistant server due to network, server, device compatibily issues... and Manual Token is a convenience way to overcome this problem.
+<br>Sometime, we can't login to Home Assistant server due to network, server, device compatibily issues... and Manual Token is a convenience way to overcome this problem.
 
 ## How Can I Setup Manual Token?
 
