@@ -6,6 +6,7 @@
 <br><br><br>
 
 ## Manual Token
+![alt text](https://youtu.be/7b85BM-18-I)
 Sometime, we can't login to Home Assistant server due to network, server, device compatibily issues... and Manual Token is a convenience way to overcome this problem.
 
 ## How Can I Setup Manual Token?
