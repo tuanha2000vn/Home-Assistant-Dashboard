@@ -1,0 +1,1 @@
+mklink /D "D:\MyDocuments\Home-Assistant-Dashboard" "D:\MyDocuments\Flutter\hassdash\build\web"
