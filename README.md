@@ -7,7 +7,7 @@ Android Play Store: https://play.google.com/store/apps/details?id=com.thhkstudio
 
 Github (Android Only): https://github.com/tuanha2000vn/Home-Assistant-Dashboard/releases/latest
 
-## Push Notification
+## Push Notification Setup
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
 <br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
 
