@@ -3,10 +3,10 @@
     <channel>
         <title>Home-Dashboard - Appcast</title>
         <item>
-            <title>Version 4.4.2</title>
+            <title>Version 4.3.2</title>
             <description>Description</description>
             <pubDate>Sun, 30 Dec 2018 12:00:00 +0000</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="4.4.2" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.moonwink.treasury" sparkle:version="4.3.2" sparkle:os="android" />
         </item>
     </channel>
 </rss>
