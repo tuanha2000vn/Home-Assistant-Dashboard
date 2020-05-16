@@ -4,6 +4,22 @@
 Only translate normal like like this into your language
 
 ***
+### languageAuthor: Your nick name 
+
+TuanHA
+
+***
+### languageDisplay: Name of your language 
+
+English
+
+***
+### languageId: Code of your language
+http://www.lingoes.net/en/translator/langcode.htm
+
+en_US
+
+***
 ### actionOpen: What you say to open device like "Open the Door"
 
 open
@@ -22,22 +38,6 @@ turn on
 ### actionTurnOff: What you say to turn off device like "Turn of the TV"
 
 turn off
-
-***
-### languageAuthor: Your nick name 
-
-TuanHA
-
-***
-### languageDisplay: Name of your language 
-
-English
-
-***
-### languageId: Code of your language
-http://www.lingoes.net/en/translator/langcode.htm
-
-en_US
 
 ***
 ### voiceAll: Word to call "all" device in your language like "Turn off all the light". Enter few most popular word
