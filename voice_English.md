@@ -1,16 +1,16 @@
-#### actionOpen: What you say to open device i.e. Open the Door
+#### actionOpen: What you say to open device like "Open the Door"
 
 open
 
-#### actionClose: What you say to close device i.e. Close the Curtain
+#### actionClose: What you say to close device like "Close the Curtain"
 
 close
 
-#### actionTurnOn: What you say to turn on device i.e. Turn on Living Room Light
+#### actionTurnOn: What you say to turn on device like "Turn on Living Room Light"
 
 turn on
 
-#### actionTurnOff: What you say to turn off device i.e. Turn of the TV
+#### actionTurnOff: What you say to turn off device like "Turn of the TV"
 
 turn off
 
@@ -23,7 +23,7 @@ http://www.lingoes.net/en/translator/langcode.htm
 
 en_US
 
-#### voiceAll: Word to call "all" device in your language i.e Turn off all the light. Enter few most popular word
+#### voiceAll: Word to call "all" device in your language like "Turn off all the light". Enter few most popular word
 
 all the
 
