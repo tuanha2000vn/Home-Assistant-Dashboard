@@ -14,7 +14,11 @@ turn on
 
 turn off
 
-### languageAuthor: Name of your language 
+### languageAuthor: Your nick name 
+
+TuanHA
+
+### languageDisplay: Name of your language 
 
 English
 
@@ -74,11 +78,17 @@ zero, one, two, three, four, five, six, seven, eight, nine,
 OK, Okie, Okay, Alright, Got it, Right away, Done, As you please,
 
 ### voiceTryList The reply message suggest user try again. Enter few most popular phrase
+
 Can not find device, please try again.
+
 We don't know about this device.
+
 The device does not exist in the system.
+
 We can not find the device you just called.
 
 ### voiceWelcome The Welcome message message. Enter few most popular phrase
+
 Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:
+
 Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:
