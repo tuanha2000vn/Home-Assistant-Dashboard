@@ -7,10 +7,6 @@ Android Play Store: https://play.google.com/store/apps/details?id=com.thhkstudio
 
 Github (Android Only): https://github.com/tuanha2000vn/Home-Assistant-Dashboard/releases/latest
 
-## Push Notification Setup
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
-<br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
-
 ## Help translate Home-Dashboard into your language
 
 Edit the following existing file or create new file for missing language.
@@ -34,6 +30,10 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/r
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/sv-SE.json
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/vi-VN.json
+
+## Push Notification Setup
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
+<br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
 
 ## Connect Using Manual Token
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/manual-token-1.png)
