@@ -37,11 +37,23 @@ Edit the following existing file or create new file for missing language.
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_deutsch.md
 
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_dutch.md
+
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_english.md
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_espanol.md
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_francaise.md
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_hebrew.md
 
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_italian.md
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_russian.md
+
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_svenka.md
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_vietnamese.md
 
 ## Push Notification Setup
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
