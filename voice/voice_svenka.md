@@ -8,123 +8,115 @@ Only translate normal like like this into your language
 
 #### languageAuthor: Your nick name 
 
-TuanHA
+Tyre88
 
 ***
 
 #### languageDisplay: Name of your language 
 
-English
+Swedish
 
 ***
 
 #### languageId: Code of your language
 http://www.lingoes.net/en/translator/langcode.htm
 
-en_US
+sv_SE
 
 ***
 
 #### actionOpen: What you say to open device like "Open the Door"
 
-open
+öppna
 
 ***
 
 #### actionClose: What you say to close device like "Close the Curtain"
 
-close
+stäng
 
 ***
 
 #### actionTurnOn: What you say to turn on device like "Turn on Living Room Light"
 
-turn on
+slå på
+
+sätt på
 
 ***
 
 #### actionTurnOff: What you say to turn off device like "Turn of the TV"
 
-turn off
+stäng av
+
+slå av
 
 ***
 
 #### voiceAll: Word to call "all" device in your language like "Turn off all the light". Enter few most popular word
 
-all the
-
-every
-
-entire
+alla
 
 ***
 
 #### voiceCantFindActionList: The reply message when we can't find actionOpen/actionClose/actionTurnOn/actionTurnOff. Enter few most popular phrase
 
-Can not understand the voice command, please try again.
+Jag kan inte förstå vad du säger, prova igen.
 
-We can't understand this command.
+Jag förstår inte vad du försöker göra.
 
-This command is not yet supported by the system.
+Detta kommando fungerar inte just nu.
 
-We can't figure out what you mean.
+Ha! nej så smart är jag inte.
 
 ***
 
 #### voiceCantFindEntityList: The reply message when we can't find the entity in your voice command. Enter few most popular phrase
 
-Can not find device, please try again..
+Jag kan inte hitta enheten, prova igen.
 
-We don't know about this device.
-
-The device does not exist in the system.
-
-We can't figure out what you mean.
-
-We can not find the device you just called.
+Denna enheten finns inte i din konfiguration.
 
 ***
 
 #### voiceEntityClassMap: The popular name of device class
 
-cover: blind, door, curtain,
+cover: rullgardin, dörr, gardin, gardiner,
 
-climate: ac, air conditioner, air conditioning,
+climate: ac, air conditioner, air conditioning, luftrenare, luft konditionering,
 
-fan: fan,
+fan: fläkt,
 
-light: light, led, bulb,
+light: lampa, lampan,
 
-switch: switch, circuit breaker, plug,
+switch: strömbrytare, switch, plugg,
 
 ***
 
 #### voiceNumberMap: The word of number from zero to 9
 
-zero, one, two, three, four, five, six, seven, eight, nine,
+noll, ett, två, tre, fyra, fem, sex, sju, åtta, nio,
 
 ***
 
 #### voiceOkList: The reply message when everything is OK. Enter few most popular phrase
 
-OK, Okie, Okay, Alright, Got it, Right away, Done, As you please,
+OK, Okie, Okej, Uppfattat, På g.., Klart, Som du vill,
 
 ***
 
 #### voiceTryList The reply message suggest user try again. Enter few most popular phrase
 
-Can not find device, please try again.
+Kan inte hitta enheten, vänligen försök igen.
 
-We don't know about this device.
+Jag hittar inte denna enheten...
 
-The device does not exist in the system.
-
-We can not find the device you just called.
+Denna enheten finns inte i systemet.
 
 ***
 
 #### voiceWelcome The Welcome message message. Enter few most popular phrase
 
-Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:
+Välkommen till Home-Dashboards röstassistent, för att kontrollera enheter vänligen prova något av följande kommandon:
 
-Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:
+Tack för att du använder Home-Dashboards röstassistent. Du kan styra dina enheter med hjälp av följande kommandon:
