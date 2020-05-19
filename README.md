@@ -39,6 +39,10 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_english.md
 
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_hebrew.md
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_svenka.md
+
 ## Push Notification Setup
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
 <br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
