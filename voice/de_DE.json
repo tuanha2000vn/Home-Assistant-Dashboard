@@ -1,0 +1,71 @@
+{
+    "languageAuthor": "Claus",
+    "languageDisplay": "Deutsch",
+    "languageId": "de_DE",
+    "actionOpen": "öffne",
+    "actionClose": "schließe",
+    "actionTurnOn": "schalte ein",
+    "actionTurnOff": "schalte aus",
+    "voiceAll": [
+        "alle",
+        "jede",
+        "ganz"
+    ],
+    "voiceCantFindActionList": [
+        "Konnte den Sprachbefehl nicht ausführen, bitte erneut versuchen.",
+        "Habe den Spachbefehl nicht verstanden.",
+        "Dieser Befehl wird zur Zeit vom System nicht unterstützt.",
+        "Ich habe nicht verstanden was du meinst."
+    ],
+    "voiceCantFindEntityList": [
+        "Konnte das Gerät nicht finden, bitte erneut versuchen.",
+        "Ich kenne dieses Gerät nicht.",
+        "Dieses Gerät existiert nicht im System.",
+        "Ich weiß nicht was du meinst.",
+        "Ich konnte das aufgerufene Gerät nicht finden."
+    ],
+    "voiceEntityClassMap": {
+        "jalousie": "cover",
+        "tür": "cover",
+        "vorhang": "cover",
+        "heizung": "climate",
+        "klimaanlage": "climate",
+        "lüfter": "fan",
+        "ventilator": "fan",
+        "licht": "light",
+        "lampe": "light",
+        "lED": "light",
+        "schalter": "switch",
+        "stecker": "switch",
+        "steckdose": "switch"
+    },
+    "voiceNumberMap": {
+        "null": "0",
+        "eins": "1",
+        "zwei": "2",
+        "drei": "3",
+        "vier": "4",
+        "fünf": "5",
+        "sechs": "6",
+        "sieben": "7",
+        "acht": "8",
+        "neun": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okay",
+        "Erledigt",
+        "Habe verstanden",
+        "Wie gewünscht"
+    ],
+    "voiceTryList": [
+        "Kann das Gerät nicht finden, bitte erneut versuchen:",
+        "Ich kenne dieses Gerät nicht:",
+        "Das Gerät existiert nicht im System:",
+        "Konnte das aufgerufene Gerät nicht finden:"
+    ],
+    "voiceWelcome": [
+        "Willkommen beim Sprachsteuerungssystem des Home-Dashboard. Verwenden Sie die folgenden Befehle, um die Geräte zu steuern:",
+        "Vielen Dank, dass Sie das Sprachsteuerungssystem von Home-Dashboard aktiviert haben. Sie können die meisten Geräten mit den folgenden Befehlen aktivieren:"
+    ]
+}

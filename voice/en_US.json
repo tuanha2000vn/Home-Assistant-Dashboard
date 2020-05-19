@@ -1,0 +1,73 @@
+{
+    "languageAuthor": "TuanHA",
+    "languageDisplay": "English",
+    "languageId": "en_US",
+    "actionOpen": "open",
+    "actionClose": "close",
+    "actionTurnOn": "turn on",
+    "actionTurnOff": "turn off",
+    "voiceAll": [
+        "all the",
+        "every",
+        "entire"
+    ],
+    "voiceCantFindActionList": [
+        "Can not understand the voice command, please try again.",
+        "We can't understand this command.",
+        "This command is not yet supported by the system.",
+        "We can't figure out what you mean."
+    ],
+    "voiceCantFindEntityList": [
+        "Can not find device, please try again.",
+        "We don't know about this device.",
+        "The device does not exist in the system.",
+        "We can't figure out what you mean.",
+        "We can not find the device you just called."
+    ],
+    "voiceEntityClassMap": {
+        "blind": "cover",
+        "door": "cover",
+        "curtain": "cover",
+        "ac": "climate",
+        "air conditioner": "climate",
+        "air conditioning": "climate",
+        "fan": "fan",
+        "light": "light",
+        "led": "light",
+        "bulb": "light",
+        "switch": "switch",
+        "circuit": "switch",
+        "plug": "switch"
+    },
+    "voiceNumberMap": {
+        "zero": "0",
+        "one": "1",
+        "two": "2",
+        "three": "3",
+        "four": "4",
+        "five": "5",
+        "six": "6",
+        "seven": "7",
+        "eight": "8",
+        "nine": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okay",
+        "Alright",
+        "Got it",
+        "Right away",
+        "Done",
+        "As you please"
+    ],
+    "voiceTryList": [
+        "Can not find device, please try the following command:",
+        "Try saying something like:",
+        "The system support these command:",
+        "Here a the voice command sample:"
+    ],
+    "voiceWelcome": [
+        "Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:",
+        "Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:"
+    ]
+}

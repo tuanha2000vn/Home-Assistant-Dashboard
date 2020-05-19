@@ -1,0 +1,68 @@
+{
+    "languageAuthor": "Tyre88",
+    "languageDisplay": "Svenska",
+    "languageId": "sv_SE",
+    "actionOpen": "öppna",
+    "actionClose": "stäng",
+    "actionTurnOn": "slå på",
+    "actionTurnOff": "slå av",
+    "voiceAll": [
+        "alla"
+    ],
+    "voiceCantFindActionList": [
+        "Jag kan inte förstå vad du säger, prova igen.",
+        "Jag förstår inte vad du försöker göra.",
+        "Detta kommando fungerar inte just nu.",
+        "Ha! nej så smart är jag inte."
+    ],
+    "voiceCantFindEntityList": [
+        "Jag kan inte hitta enheten, prova igen.",
+        "Denna enheten finns inte i din konfiguration."
+    ],
+    "voiceEntityClassMap": {
+        "rullgardin": "cover",
+        "dörr": "cover",
+        "gardin": "cover",
+        "gardiner": "cover",
+        "ac": "climate",
+        "air conditioner": "climate",
+        "air conditioning": "climate",
+        "luftrenare": "climate",
+        "luft konditionering": "climate",
+        "fan": "fläkt",
+        "lampa": "light",
+        "lampan": "light",
+        "strömbrytare": "switch",
+        "switch": "switch",
+        "plugg": "switch"
+    },
+    "voiceNumberMap": {
+        "noll": "0",
+        "ett": "1",
+        "två": "2",
+        "tre": "3",
+        "fyra": "4",
+        "fem": "5",
+        "sex": "6",
+        "sju": "7",
+        "åtta": "8",
+        "nio": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okej",
+        "Uppfattat",
+        "På g..",
+        "Klart",
+        "Som du vill"
+    ],
+    "voiceTryList": [
+        "Kan inte hitta enheten, vänligen försök igen:",
+        "Jag hittar inte denna enheten:",
+        "Denna enheten finns inte i systemet:"
+    ],
+    "voiceWelcome": [
+        "Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:",
+        "Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:"
+    ]
+}
