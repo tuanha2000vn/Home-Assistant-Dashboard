@@ -31,6 +31,14 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/s
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/vi-VN.json
 
+## Help add voice support to your language
+
+Edit the following existing file or create new file for missing language.
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_deutsch.md
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_english.md
+
 ## Push Notification Setup
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
 <br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
