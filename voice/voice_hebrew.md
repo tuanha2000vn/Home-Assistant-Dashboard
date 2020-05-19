@@ -8,123 +8,123 @@ Only translate normal like like this into your language
 
 #### languageAuthor: Your nick name 
 
-Claus
+TuanHA
 
 ***
 
 #### languageDisplay: Name of your language 
 
-Deutsch
+English
 
 ***
 
 #### languageId: Code of your language
 http://www.lingoes.net/en/translator/langcode.htm
 
-de-DE
+en_US
 
 ***
 
 #### actionOpen: What you say to open device like "Open the Door"
 
-öffne
+open
 
 ***
 
 #### actionClose: What you say to close device like "Close the Curtain"
 
-schließe
+close
 
 ***
 
 #### actionTurnOn: What you say to turn on device like "Turn on Living Room Light"
 
-schalte ein
+turn on
 
 ***
 
 #### actionTurnOff: What you say to turn off device like "Turn of the TV"
 
-schalte aus
+turn off
 
 ***
 
 #### voiceAll: Word to call "all" device in your language like "Turn off all the light". Enter few most popular word
 
-alle
+all the
 
-jede
+every
 
-ganz
+entire
 
 ***
 
 #### voiceCantFindActionList: The reply message when we can't find actionOpen/actionClose/actionTurnOn/actionTurnOff. Enter few most popular phrase
 
-Konnte den Sprachbefehl nicht ausführen, bitte erneut versuchen.
+Can not understand the voice command, please try again.
 
-Habe den Spachbefehl nicht verstanden.
+We can't understand this command.
 
-Dieser Befehl wird zur Zeit vom System nicht unterstützt.
+This command is not yet supported by the system.
 
-Ich habe nicht verstanden was du meinst.
+We can't figure out what you mean.
 
 ***
 
 #### voiceCantFindEntityList: The reply message when we can't find the entity in your voice command. Enter few most popular phrase
 
-Konnte das Gerät nicht finden, bitte erneut versuchen.
+Can not find device, please try again..
 
-Ich kenne dieses Gerät nicht.
+We don't know about this device.
 
-Dieses Gerät existiert nicht im System.
+The device does not exist in the system.
 
-Ich weiß nicht was du meinst.
+We can't figure out what you mean.
 
-Ich konnte das aufgerufene Gerät nicht finden.
+We can not find the device you just called.
 
 ***
 
 #### voiceEntityClassMap: The popular name of device class
 
-cover: Jalousie, Tür, Vorhang,
+cover: blind, door, curtain,
 
-climate: Heizung, Klimaanlage
+climate: ac, air conditioner, air conditioning,
 
-fan: Lüfter, Ventilator
+fan: fan,
 
-light: Licht, Lampe, LED
+light: light, led, bulb,
 
-switch: Schalter, Stecker, Steckdose
+switch: switch, circuit breaker, plug,
 
 ***
 
 #### voiceNumberMap: The word of number from zero to 9
 
-null, eins, zwei, drei, vier, fünf, sechs, sieben, acht, neun,
+zero, one, two, three, four, five, six, seven, eight, nine,
 
 ***
 
 #### voiceOkList: The reply message when everything is OK. Enter few most popular phrase
 
-OK, Okay, Erledigt, habe Verstanden, wie gewünscht,
+OK, Okie, Okay, Alright, Got it, Right away, Done, As you please,
 
 ***
 
 #### voiceTryList The reply message suggest user try again. Enter few most popular phrase
 
-Kann das Gerät nicht finden, bitte erneut versuchen.
+Can not find device, please try again.
 
-Ich kenne dieses Gerät nicht.
+We don't know about this device.
 
-Das Gerät existiert nicht im System.
+The device does not exist in the system.
 
-Konnte das aufgerufene Gerät nicht finden.
+We can not find the device you just called.
 
 ***
 
 #### voiceWelcome The Welcome message message. Enter few most popular phrase
 
-Willkommen beim Sprachsteuerungssystem des Home Dashboards. Verwenden Sie die folgenden Befehle, um die Geräte zu steuern:
+Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:
 
-Vielen Dank, dass Sie das Sprachsteuerungssystem von Home-Dashboard aktiviert haben. Sie können die meisten Geräten mit den folgenden Befehlen aktivieren:
+Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:
