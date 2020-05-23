@@ -101,7 +101,7 @@
   "status.unlocked": "đã mở khóa",
   "status.unlocking": "đang mở khóa...",
 
-  "setting.auto_backup_and_restore": "tự động sao lưu và khôi phục",
+  "setting.auto_backup_and_restore": "sao lưu và khôi phục tự động",
   "setting.auto_backup_and_restore_detail": "sử dụng máy chủ đám mây để sao lưu và khôi phục dữ liệu kết nối, thiết lập và tùy biến trên các thiết bị.",
   "setting.backup": "sao lưu",
   "setting.button_size": "cỡ nút bấm",
