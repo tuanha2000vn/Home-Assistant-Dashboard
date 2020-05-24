@@ -35,6 +35,11 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/v
 
 Edit the following existing file or create new file for missing language.
 
+First read the general guide:
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_guide.md
+
+Then edit those files:
+
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/de_DE.json
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/en_US.json
