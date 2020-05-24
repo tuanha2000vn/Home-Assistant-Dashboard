@@ -15,6 +15,8 @@
   "automation.sensor_at_value": "sensor at value",
   "automation.sensor_value_changed": "sensor value changed",
   "automation.specific_time": "specific time",
+  "automation.sun_rise": "sun raise",
+  "automation.sun_set": "sun set",
   "automation.then_perform_these_actions": "then perform these actions...",
   "automation.under_these_conditions": "under these conditions...",
   "automation.when_any_of_those_event_triggered": "when any of those event triggered...",

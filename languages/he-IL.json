@@ -15,6 +15,8 @@
   "automation.sensor_at_value": "ערך חיישן",
   "automation.sensor_value_changed": "ערך חיישן השתנה",
   "automation.specific_time": "זמן",
+  "automation.sun_rise": "זריחה",
+  "automation.sun_set": "שקיעת החמה",
   "automation.then_perform_these_actions": "בצע את הפעולות הבאות",
   "automation.under_these_conditions": "תחת התנאים הבאים",
   "automation.when_any_of_those_event_triggered": "שאחד מהאירועים הבאים מופעלים",

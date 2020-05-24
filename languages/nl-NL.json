@@ -15,6 +15,8 @@
   "automation.sensor_at_value": "sensorwaarde",
   "automation.sensor_value_changed": "ssensorwaarde veranderd",
   "automation.specific_time": "specifieke tijd",
+  "automation.sun_rise": "zonsopkomst",
+  "automation.sun_set": "zonsondergang",
   "automation.then_perform_these_actions": "voer dan deze acties uit...",
   "automation.under_these_conditions": "bij deze voorwaarden...",
   "automation.when_any_of_those_event_triggered": "wanneer aan 1 van deze voorwaarden voldaan is...",
