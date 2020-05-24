@@ -18,8 +18,9 @@
   "automation.then_perform_these_actions": "allora compi queste azioni...",
   "automation.under_these_conditions": "sotto queste condizioni...",
   "automation.when_any_of_those_event_triggered": "Quando uno di questi eventi viene scatenato...",
+
   "button.add_label_text": "aggiungi testo",
-  "button.add_new_button": "aggiungi un nuovo pulsante",
+  "button.add_new_button": "aggiungi una nuova entità",
   "button.add_new_room": "aggiungi una nuova stanza",
   "button.add_separator": "aggiungi un separatore",
   "button.cancel": "cancella",
@@ -41,6 +42,7 @@
   "button.sort_button": "riordina",
   "button.test_automation": "testa l'automazione",
   "button.yes": "si",
+
   "class.air_quality": "air quality",
   "class.alarm_control_panel": "alarm control panel",
   "class.binary_sensor": "binary sensor",
@@ -58,6 +60,7 @@
   "class.vacuum": "vacuum",
   "class.water_heater": "water heater",
   "class.weather": "weather",
+
   "entity_detail.add_user_image": "aggiungi immagine utente",
   "entity_detail.button_order_sort": "pulsante riordino",
   "entity_detail.change_name": "cambia nome",
@@ -69,9 +72,11 @@
   "entity_detail.show_in_status": "mostra nello stato",
   "entity_detail.status_order_sort": "stato di riordino",
   "entity_detail.voice_control": "controllo vocale",
+
   "menu.automation": "automazione",
   "menu.room": "stanza",
   "menu.setting": "impostazioni",
+
   "status.active_device": "dispositivi attivi",
   "status.armed_away": "armato fuori casa",
   "status.armed_home": "armato in casa",
@@ -95,6 +100,7 @@
   "status.unavailable": "non disponibile",
   "status.unlocked": "sbloccato",
   "status.unlocking": "sbloccando...",
+
   "setting.auto_backup_and_restore": "backup e ripristino automatico",
   "setting.auto_backup_and_restore_detail": "usa il cloud per fare il backup e ripristinare le informazioni di connesione, impostazioni e personalizzazioni di tutti i tuoi dispositivi.",
   "setting.backup": "backup",
@@ -123,5 +129,6 @@
   "setting.sign_out": "esci",
   "setting.sound_effect": "effetto sonoro",
   "setting.write_review": "scrivi una recensione",
-  "translator": "Alessandro Alfonzetti"
+
+  "translator":"Alessandro Alfonzetti"
 }
