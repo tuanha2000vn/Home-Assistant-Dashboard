@@ -12,6 +12,7 @@
   "automation.enable_on_startup": "הפעל בהדלקה",
   "automation.move_down": "הזז למטה",
   "automation.move_up": "הזז למעלה",
+  "automation.notification": "דחיפה הודעה",
   "automation.sensor_at_value": "ערך חיישן",
   "automation.sensor_value_changed": "ערך חיישן השתנה",
   "automation.specific_time": "זמן",
@@ -20,7 +21,6 @@
   "automation.then_perform_these_actions": "בצע את הפעולות הבאות",
   "automation.under_these_conditions": "תחת התנאים הבאים",
   "automation.when_any_of_those_event_triggered": "שאחד מהאירועים הבאים מופעלים",
-
   "button.add_label_text": "הוספת תווית חדשה",
   "button.add_new_button": "הוספת כפתור חדש",
   "button.add_new_room": "הוספת חדר חדש",
@@ -44,7 +44,6 @@
   "button.sort_button": "אירגון כפתורים",
   "button.test_automation": "בדיקת אוטומציה",
   "button.yes": "כן",
-
   "class.air_quality": "איכות אוויר",
   "class.alarm_control_panel": "פנל אזעקה",
   "class.binary_sensor": "חיישן",
@@ -62,7 +61,6 @@
   "class.vacuum": "שואב אבק",
   "class.water_heater": "דוד",
   "class.weather": "מזג אויר",
-
   "entity_detail.add_user_image": "הוספת תמונת משתמש",
   "entity_detail.button_order_sort": "אירגון כפתורים",
   "entity_detail.change_name": "שנה שם",
@@ -74,11 +72,9 @@
   "entity_detail.show_in_status": "הצג בשורת מצב",
   "entity_detail.status_order_sort": "סידור שורת מצב",
   "entity_detail.voice_control": "שליטה קולית",
-
   "menu.automation": "אוטומציות",
   "menu.room": "חדר",
   "menu.setting": "הגדרות",
-
   "status.active_device": "הפעל מכשיר",
   "status.armed_away": "דרוך מצב לא בבית",
   "status.armed_home": "דרוך מצב בית",
@@ -102,7 +98,6 @@
   "status.unavailable": "לא זמין",
   "status.unlocked": "ביטול נעילה",
   "status.unlocking": "פותח...",
-
   "setting.auto_backup_and_restore": "גיבוי ושיחזור אוטומטי",
   "setting.auto_backup_and_restore_detail": "השתמש בענן לגיבוי ושחזור פרטי חיבור, הגדרות ותצורת אפליקציה",
   "setting.backup": "גיבוי",
@@ -131,6 +126,5 @@
   "setting.sign_out": "התנתק",
   "setting.sound_effect": "אפקט קולי",
   "setting.write_review": "כתוב ביקרות",
-
-  "translator":"OmerSH"
+  "translator": "OmerSH"
 }
