@@ -61,10 +61,10 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/sv_SE
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/vi_VN.json
 
-## Push Notification Setup
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/raw/master/images/push_notification_2.png)
-<br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
+## Automation
 
-## Connect Using Manual Token
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/manual-token-1.png)
-<br>https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/manual_token.md
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png)
+
+Home-Dashboard let you create sophisticated automation without having to code. All condition are pre-selected making Automation easy, bug free and just work!
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation.md

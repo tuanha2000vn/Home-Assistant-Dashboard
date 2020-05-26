@@ -8,23 +8,23 @@ Here are a few Automation examples:
 
 ### Turn light on when movement detected
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.1.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.1.png)
 
 #### Create new Automation: Go to Automation tab > Top right menu > Create automation > Wait few second > Click the newly created Automation > Edit automation > Change name to "# Turn light on when movement detected"
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.2.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.2.png)
 
 #### Create new trigger > Device state changed > Select device > Click To > Set to "On"
 
 ***
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.3.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.3.png)
 
 #### Create new action > Change device state > Select device > Click Light/Switch > Set To "Turn On"
 
 ***
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.4.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.4.png)
 
 Final result
 
@@ -34,7 +34,7 @@ Final result
 
 ### Turn light on when I'm coming home but only after 18:00 and before 22:00
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.2.1.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.2.1.png)
 
 #### Create new triger > Location > Select device > Set Even to "Enter" > Set Zone to Home
 
@@ -48,7 +48,7 @@ Final result
 
 ### Send notification to my phone with picture of camera 1 if garage door opened for more than 1 minute when I'm at school
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png)
 
 #### Create new triger > Device state changed > Select a door > Click To > Set To "On" > Set For "00:01:00" 
 
@@ -62,7 +62,7 @@ Final result
 
 > To send notification with Camera image, please check the following steps:
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.whitelist.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.whitelist.png)
 
 > 1. Make sure there's a folder named www inside /config  and the following line added to configuration.yaml
 
@@ -74,6 +74,6 @@ homeassistant:
 
 ***
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.push.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.push.png)
 
 > 2. Go to Setting > Enable Push Notification
