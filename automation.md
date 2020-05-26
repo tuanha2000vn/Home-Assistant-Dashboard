@@ -16,11 +16,28 @@ Here are a few Automation examples:
 
 #### Create new trigger > Device state changed > Select device > Click To > Set to "On"
 
+***
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.3.png?raw=true)
 
 #### Create new action > Change device state > Select device > Click Light/Switch > Set to "Turn On"
 
+***
+
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.4.png?raw=true)
 
 Final result
+
+***
+
+## 1. Intermadiate Automation
+
+### Turn light on when I''m coming home but only after 18:00 and before 22:00
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.2.1.png?raw=true)
+
+#### Create new triger > Location > Select device > Set Even to "Enter" > Set Zone to Home
+
+#### Create new condition > Specific time > Select device > Set After to "18:00:00" > Set Before to "22:00:00"
+
+#### Create new action > Change device state > Select device > Click Light/Switch > Set to "Turn On"
