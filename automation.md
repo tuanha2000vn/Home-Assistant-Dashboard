@@ -60,6 +60,8 @@ Final result
 
 ***
 
+## 4. Setup Push Notification
+
 > To send notification with Camera image, please check the following steps:
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.whitelist.png)
