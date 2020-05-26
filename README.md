@@ -7,6 +7,18 @@ Android Play Store: https://play.google.com/store/apps/details?id=com.thhkstudio
 
 Github (Android Only): https://github.com/tuanha2000vn/Home-Assistant-Dashboard/releases/latest
 
+***
+
+## Automation
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png)
+
+Home-Dashboard let you create sophisticated automation without having to code. All condition are pre-selected making Automation easy, bug free and just work!
+
+https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation.md
+
+***
+
 ## Help translate Home-Dashboard into your language
 
 Edit the following existing file or create new file for missing language.
@@ -30,6 +42,8 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/r
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/sv-SE.json
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/vi-VN.json
+
+***
 
 ## Help add voice support to your language
 
@@ -61,10 +75,3 @@ https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/sv_SE
 
 https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/vi_VN.json
 
-## Automation
-
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png)
-
-Home-Dashboard let you create sophisticated automation without having to code. All condition are pre-selected making Automation easy, bug free and just work!
-
-https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation.md
