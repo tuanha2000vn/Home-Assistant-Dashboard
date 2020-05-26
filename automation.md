@@ -58,9 +58,9 @@ Final result
 
 #### Create new action > Push notification > Select device > Change Notify title to "Door Opened for more than 1 minute" > Change Notify message to "Here the camera 1 image" > Camage image: Select camera 1
 
-> To send notification with Camera image, please check the following steps:
-
 ***
+
+> To send notification with Camera image, please check the following steps:
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.whitelist.png?raw=true)
 
