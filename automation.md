@@ -78,4 +78,4 @@ homeassistant:
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.push.png)
 
-> 2. Go to Setting > Enable Push Notification
+> 2. Go to Setting > Enable Push Notification > Restart Home Assistant
