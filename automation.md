@@ -10,10 +10,17 @@ Here are a few Automation examples:
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.1.png?raw=true)
 
-Create new trigger > Device state changed > Select device > Click To > Set to "On"
+Go to Automation tab > Top right menu > Create automation > Wait few second > Click the newly created Automation > Edit automation
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.2.png?raw=true)
 
-Create new action > Change device state > Select device > Click Light/Switch > Set to "Turn On"
+Create new trigger > Device state changed > Select device > Click To > Set to "On"
+
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.3.png?raw=true)
+
+Create new action > Change device state > Select device > Click Light/Switch > Set to "Turn On"
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.4.png?raw=true)
+
+Final result
