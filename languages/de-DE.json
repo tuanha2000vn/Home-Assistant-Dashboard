@@ -13,6 +13,7 @@
   "automation.move_down": "Nach unten bewegen",
   "automation.move_up": "Nach oben bewegen",
   "automation.notification": "Push Benachrichtigung",
+  "automation.save_camera_image": "Kamerabild speichern",
   "automation.sensor_at_value": "Sensorwert bei",
   "automation.sensor_value_changed": "Sensorwert geändert",
   "automation.specific_time": "Bestimmte Zeit",

@@ -13,6 +13,7 @@
   "automation.move_down": "Sposta in basso",
   "automation.move_up": "Sposta in alto",
   "automation.notification": "Notifica push",
+  "automation.save_camera_image": "Salva l'immagine della telecamera",
   "automation.sensor_at_value": "Valore del sensore",
   "automation.sensor_value_changed": "Valore del sensore cambiato",
   "automation.specific_time": "Orario specifico",

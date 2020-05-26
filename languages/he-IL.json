@@ -13,6 +13,7 @@
   "automation.move_down": "הזז למטה",
   "automation.move_up": "הזז למעלה",
   "automation.notification": "דחיפה הודעה",
+  "automation.save_camera_image": "שמור תמונת מצלמה",
   "automation.sensor_at_value": "ערך חיישן",
   "automation.sensor_value_changed": "ערך חיישן השתנה",
   "automation.specific_time": "זמן",

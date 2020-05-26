@@ -13,6 +13,7 @@
   "automation.move_down": "Liiguta alla",
   "automation.move_up": "Liiguta üles",
   "automation.notification": "Tõuketeade",
+  "automation.save_camera_image": "Salvestage kaamera pilt",
   "automation.sensor_at_value": "Anduri väärtus on",
   "automation.sensor_value_changed": "Anduri väärtus muutus",
   "automation.specific_time": "Kindlal ajal",

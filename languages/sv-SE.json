@@ -13,6 +13,7 @@
   "automation.move_down": "Flytta ner",
   "automation.move_up": "Flytta upp",
   "automation.notification": "Push meddelande",
+  "automation.save_camera_image": "Spara kamerabild",
   "automation.sensor_at_value": "Sensor vid värde",
   "automation.sensor_value_changed": "Sensor värde ändras",
   "automation.specific_time": "Tid",

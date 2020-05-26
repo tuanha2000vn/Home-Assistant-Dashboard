@@ -13,6 +13,7 @@
   "automation.move_down": "Xuống dưới",
   "automation.move_up": "Lên trên",
   "automation.notification": "Gửi thông báo",
+  "automation.save_camera_image": "Lưu ảnh camera",
   "automation.sensor_at_value": "Cảm biến đang ở giá trị",
   "automation.sensor_value_changed": "Cảm biến thay đổi giá trị",
   "automation.specific_time": "Thời điểm nhất định",
