@@ -4,7 +4,7 @@ Home-Dashboard let you create sophisticated automation without having to code. A
 
 ***
 
-## 1. Setup Push Notification
+## 1. Setup
 
 To enable Automation feature, please check the following steps:
 
@@ -40,7 +40,8 @@ homeassistant:
 
 ***
 
-## 2. Simple Automation: Turn light on when movement detected
+## 2. Simple Automation: 
+    Turn light on when movement detected
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.1.1.png?raw=true)
 
@@ -64,7 +65,8 @@ homeassistant:
 
 ***
 
-## 3. Intermadiate Automation: Turn light on when I'm coming home but only after 18:00 and before 22:00
+## 3. Intermadiate Automation: 
+    Turn light on when I'm coming home but only after 18:00 and before 22:00
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.2.1.png?raw=true)
 
@@ -76,7 +78,8 @@ homeassistant:
 
 ***
 
-## 4. Advance Automation: Send notification to my phone with picture of camera 1 if garage door opened for more than 1 minute when I'm at school
+## 4. Advance Automation: 
+    Send notification to my phone with picture of camera 1 if garage door opened for more than 1 minute when I'm at school
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png?raw=true)
 
