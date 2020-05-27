@@ -21,7 +21,7 @@ homeassistant:
     automation: !include automations.yaml
 ```
 
-* Make sure the automation.yaml added to configuration.yaml
+* And automation.yaml added to configuration.yaml
 
 ***
 
