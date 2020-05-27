@@ -2,7 +2,29 @@
 
 Home-Dashboard let you create sophisticated automation without having to code. All condition are pre-selected making Automation easy, bug free and just work!
 
-Here are a few Automation examples:
+***
+
+## 1. Setup Push Notification
+
+> To send notification with Camera image, please check the following steps:
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.whitelist.png)
+
+> 1. Make sure there's a folder named www inside /config  and the following line added to configuration.yaml
+
+```yaml
+homeassistant:
+    whitelist_external_dirs
+        - /config/www
+```
+
+***
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.push.png)
+
+> 2. Go to Setting > Enable Push Notification > Restart Home Assistant
+
+***
 
 ## 1. Simple Automation
 
@@ -57,25 +79,3 @@ Final result
 #### Create new action > Save camera image > Select Camera 1
 
 #### Create new action > Push notification > Select device > Change Notify title to "Door Opened for more than 1 minute" > Change Notify message to "Here the camera 1 image" > Camage image: Select camera 1
-
-***
-
-## 4. Setup Push Notification
-
-> To send notification with Camera image, please check the following steps:
-
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.whitelist.png)
-
-> 1. Make sure there's a folder named www inside /config  and the following line added to configuration.yaml
-
-```yaml
-homeassistant:
-    whitelist_external_dirs
-        - /config/www
-```
-
-***
-
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.push.png)
-
-> 2. Go to Setting > Enable Push Notification > Restart Home Assistant
