@@ -11,11 +11,11 @@ Github (Android Only): https://github.com/tuanha2000vn/Home-Assistant-Dashboard/
 
 ## Automation
 
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.3.1.png?raw=true)
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_2.png?raw=true)
 
 * Home-Dashboard let you create sophisticated automation without having to code. All condition are pre-selected making Automation easy, bug free and just work!
 
-* * https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation.md
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation.md
 
 ***
 
