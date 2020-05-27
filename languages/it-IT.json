@@ -10,6 +10,7 @@
   "automation.device_at_state": "Stato del device",
   "automation.device_state_changed": "Stato del dispositivo cambiato",
   "automation.enable_on_startup": "Abilita all'avvio",
+  "automation.location": "Posizione",
   "automation.move_down": "Sposta in basso",
   "automation.move_up": "Sposta in alto",
   "automation.notification": "Notifica push",

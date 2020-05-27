@@ -10,6 +10,7 @@
   "automation.device_at_state": "Thiết bị đang ở trạng thái",
   "automation.device_state_changed": "Thiết bị thay đổi trạng thái",
   "automation.enable_on_startup": "Bật khi khởi động",
+  "automation.location": "Vị trí",
   "automation.move_down": "Xuống dưới",
   "automation.move_up": "Lên trên",
   "automation.notification": "Gửi thông báo",

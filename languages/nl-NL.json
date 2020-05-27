@@ -10,6 +10,7 @@
   "automation.device_at_state": "Toestel status",
   "automation.device_state_changed": "Status toestel is veranderd",
   "automation.enable_on_startup": "Toepassen bij opstarten",
+  "automation.location": "Plaats",
   "automation.move_down": "Naar boven",
   "automation.move_up": "Naar beneden",
   "automation.notification": "Push notificatie",

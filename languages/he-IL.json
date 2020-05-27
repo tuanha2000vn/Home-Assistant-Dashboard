@@ -10,6 +10,7 @@
   "automation.device_at_state": "מצב מכשיר",
   "automation.device_state_changed": "מצב מכשיר השתנה",
   "automation.enable_on_startup": "הפעל בהדלקה",
+  "automation.location": "מקום",
   "automation.move_down": "הזז למטה",
   "automation.move_up": "הזז למעלה",
   "automation.notification": "דחיפה הודעה",

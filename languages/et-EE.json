@@ -10,6 +10,7 @@
   "automation.device_at_state": "Seadme olek on",
   "automation.device_state_changed": "Seadme olek muutus",
   "automation.enable_on_startup": "Luba käivitumisel",
+  "automation.location": "Asukoht",
   "automation.move_down": "Liiguta alla",
   "automation.move_up": "Liiguta üles",
   "automation.notification": "Tõuketeade",

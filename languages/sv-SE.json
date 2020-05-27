@@ -10,6 +10,7 @@
   "automation.device_at_state": "Enhet vid tillstånd",
   "automation.device_state_changed": "ändring av enhetens tillstånd",
   "automation.enable_on_startup": "Aktivera vid start",
+  "automation.location": "Plats",
   "automation.move_down": "Flytta ner",
   "automation.move_up": "Flytta upp",
   "automation.notification": "Push meddelande",
