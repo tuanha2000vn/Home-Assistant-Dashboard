@@ -1,7 +1,7 @@
 # Home Assistant Dashboard
-<img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/touch.gif?raw=true" width="300"> <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/climate.gif?raw=true" width="300">
+<img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/touch.gif?raw=true" width="300"> <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/climate.gif?raw=true" width="300"> <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/light_color.gif?raw=true" width="300">
 ***
-<img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/door_lock.gif?raw=true" width="300">  <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/curtain.gif?raw=true" width="300"> 
+<img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/door_lock.gif?raw=true" width="300">  <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/curtain.gif?raw=true" width="300">  
 ***
 <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/light_color.gif?raw=true" width="300"> <img src="https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/sensor.gif?raw=true" width="300">
 ***
