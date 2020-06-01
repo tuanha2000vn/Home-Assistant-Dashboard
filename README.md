@@ -1,4 +1,13 @@
 # Home Assistant Dashboard
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/touch.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/climate.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/door_lock.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/curtain.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/light_color.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/sensor.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/binary.gif?raw=true)
+![](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/gif/toggle.gif?raw=true)
+
 
 ## How can I download the app
 Apple App Store: https://apps.apple.com/us/app/home-dashboard/id1499398822
