@@ -10,30 +10,32 @@
 
 To enable Automation feature, please check the following steps:
 
+***
+
+Make sure `automation.yaml` added to `configuration.yaml`
+
+```yaml
+automation: !include automations.yaml
+```
+
+
+***
+
+If you already have automation in various file, include both single `automation.yaml` and `automations directory` like this
+
+```yaml
+automation: !include automations.yaml
+automation mine: !include_dir_merge_list automations/
+```
+***
+
+If you want to send notification with picture, create a folder name `www` inside `config folder` and the following line added to `configuration.yaml`
+
 ```yaml
 homeassistant:
   whitelist_external_dirs:
     - /config/www
 ```
-* Make sure there's a folder named www inside /config  and the following line added to configuration.yaml
-
-***
-
-```yaml
-    automation: !include automations.yaml
-```
-
-* And automation.yaml added to configuration.yaml
-
-***
-
-```yaml
-    automation: !include automations.yaml
-    automation mine: !include_dir_merge_list automations/
-```
-* If you already have automation in various file, include both single automation.yaml and automations directory like this
-
-
 ***
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/automation/a.push.png?raw=true)
