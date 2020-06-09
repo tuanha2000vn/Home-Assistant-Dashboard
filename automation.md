@@ -12,8 +12,8 @@ To enable Automation feature, please check the following steps:
 
 ```yaml
 homeassistant:
-    whitelist_external_dirs
-        - /config/www
+  whitelist_external_dirs:
+    - /config/www
 ```
 * Make sure there's a folder named www inside /config  and the following line added to configuration.yaml
 
