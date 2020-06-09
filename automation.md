@@ -29,7 +29,7 @@ automation mine: !include_dir_merge_list automations/
 ```
 ***
 
-If you want to send notification with picture, create a folder name `www` inside `config folder` and the following line added to `configuration.yaml`
+If you want to send notification with picture, create a folder name `www` inside `config folder` and add the following line added to `configuration.yaml`
 
 ```yaml
 homeassistant:
