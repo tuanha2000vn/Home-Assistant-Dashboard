@@ -2,10 +2,10 @@
   "languageAuthor": "OmerSH",
   "languageDisplay": "עברית",
   "languageId": "he_IL",
-  "actionOpen": "פתח",
-  "actionClose": "סגור",
-  "actionTurnOn": "הפעל",
-  "actionTurnOff": "כבה",
+  "actionOpen": ["פתח"],
+  "actionClose": ["סגור"],
+  "actionTurnOn": ["הפעל"],
+  "actionTurnOff": ["כבה"],
   "voiceAll": [
     "כל"
   ],

@@ -2,10 +2,10 @@
   "languageAuthor": "Tyre88",
   "languageDisplay": "Svenska",
   "languageId": "sv_SE",
-  "actionOpen": "öppna",
-  "actionClose": "stäng",
-  "actionTurnOn": "slå på",
-  "actionTurnOff": "slå av",
+  "actionOpen": ["öppna"],
+  "actionClose": ["stäng"],
+  "actionTurnOn": ["slå på"],
+  "actionTurnOff": ["slå av"],
   "voiceAll": [
     "alla"
   ],

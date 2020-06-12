@@ -119,7 +119,7 @@
   "setting.last_access": "Kết nối lần cuối",
   "setting.manual_backup_and_restore": "Sao lưu và khôi phục thủ công",
   "setting.manual_backup_and_restore_detail": "Sử dụng thư điện tử để sao lưu và khôi phục dữ liệu kết nối, thiết lập và tùy biến trên các thiết bị",
-  "setting.master_passcode": "Mật mã chủ - Khóa thiết lập",
+  "setting.master_passcode": "Mật mã chủ",
   "setting.mobile_app_name": "Tên ứng dụng di động",
   "setting.mobile_app_not_registered": "Chưa đăng ký",
   "setting.request_review": "Yêu cầu đánh giá",
