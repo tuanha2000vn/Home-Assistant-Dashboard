@@ -29,25 +29,25 @@ Github (Android Only): https://github.com/tuanha2000vn/Home-Assistant-Dashboard/
 
 Edit the following existing file or create new file for missing language.
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/de-DE.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/de-DE.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/en-US.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/en-US.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/es-ES.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/es-ES.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/fr-FR.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/fr-FR.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/he-IL.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/he-IL.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/it-IT.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/it-IT.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/nl-NL.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/nl-NL.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/ru-RU.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/ru-RU.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/sv-SE.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/sv-SE.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/languages/vi-VN.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/vi-VN.json
 
 ***
 
@@ -57,27 +57,27 @@ Edit the following existing file or create new file for missing language.
 
 First read the general guide:
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/voice_guide.md
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/voice_guide.md
 
 Then edit those files:
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/de_DE.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/de_DE.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/en_US.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/en_US.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/es_ES.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/es_ES.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/fr_FR.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/fr_FR.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/he_IL.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/he_IL.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/it_IT.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/it_IT.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/nl_NL.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/nl_NL.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/ru_RU.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/ru_RU.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/sv_SE.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/sv_SE.json
 
-* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voice/vi_VN.json
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/vi_VN.json
 
