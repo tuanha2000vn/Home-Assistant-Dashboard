@@ -1,0 +1,74 @@
+{
+    "languageAuthor": "repsionu",
+    "languageDisplay": "Eesti",
+    "languageId": "et_EE",
+    "actionOpen": ["ava"],
+    "actionClose": ["sule"],
+    "actionTurnOn": ["lülita sisse"],
+    "actionTurnOff": ["lülita välja"],
+    "voiceAll": [
+        "kõik",
+        "iga",
+        "täielik"
+    ],
+    "voiceCantFindActionList": [
+        "Käsklus arusaamatu, proovi uuesti.",
+        "Ei saanud käsklusest aru.",
+        "Seda käsklust ei saa veel kasutada.",
+        "Ei leia vastet."
+    ],
+    "voiceCantFindEntityList": [
+        "Pole sellist seadet, proovi uuesti.",
+        "Ei leia sellist seadet.",
+        "Selline seade puudub.",
+        "Ei leia vastet.",
+        "Ei leia soovitud seadet."
+    ],
+    "voiceEntityClassMap": {
+        "ruloo": "cover",
+        "uks": "cover",
+        "kardin": "cover",
+        "kliimaseade": "climate",
+        "konditsioneer": "climate",
+        "küte": "climate",
+        "ventilaator": "fan",
+        "valgusti": "light",
+        "led": "light",
+        "pirn": "light",
+		"lamp": "light",
+        "lüliti": "switch",
+        "seade": "switch",
+        "pistik": "switch"
+    },
+    "voiceNumberMap": {
+        "null": "0",
+        "üks": "1",
+        "kaks": "2",
+        "kolm": "3",
+        "neli": "4",
+        "viis": "5",
+        "kuus": "6",
+        "seitse": "7",
+        "kaheksa": "8",
+        "üheksa": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okei",
+        "Olgu",
+        "Sain aru",
+        "Otsekohe",
+        "Tehtud",
+        "Nagu soovitud"
+    ],
+    "voiceTryList": [
+        "Seadet ei leitud, proovi käsku:",
+        "Aga proovi küsida:",
+        "Toetatud käsud on:",
+        "Häälkäskluse näidis:"
+    ],
+    "voiceWelcome": [
+        "Kodupaneeli hääljuhtimine. Seadmete juhtimiseks proovi neid käske:",
+        "Olete kodupaneeli hääljuhtimise aktiveerinud. Seadmete juhtiseks saate kasutada neid käsklusi:"
+    ]
+}

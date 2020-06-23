@@ -1,0 +1,74 @@
+{
+    "languageAuthor": "Alessandro Alfonzetti",
+    "languageDisplay": "Italiano",
+    "languageId": "it_IT",
+    "actionOpen": ["aperto"],
+    "actionClose": ["chiuso"],
+    "actionTurnOn": ["accendi"],
+    "actionTurnOff": ["spegni"],
+    "voiceAll": [
+        "tutti",
+        "tutte",
+        "ogni"
+    ],
+    "voiceCantFindActionList": [
+        "Non riesco a comprendere il comando vocale, prova di nuovo.",
+        "Non riusciamo a comprendere questo comando.",
+        "Questo comando non è ancora supportato dal sistema.",
+        "Non riusciamo a capire cosa intendi."
+    ],
+    "voiceCantFindEntityList": [
+        "Non riesco a trovare il dispositivo, prova di nuovo.",
+        "Non conosco questo dispositivo.",
+        "Il dispositivo non è presente nel sistema.",
+        "Non riusciamo a capire cosa intendi.",
+        "Non riusciamo a trovare il dispositivo che hai appena chiamato."
+    ],
+    "voiceEntityClassMap": {
+        "tapparella": "cover",
+        "porta": "cover",
+        "tenda": "cover",
+        "ac": "climate",
+        "condizionatore": "climate",
+        "aria condizionata": "climate",
+        "fan": "ventilatore",
+        "luce": "light",
+        "lampada": "light",
+        "faro": "light",
+        "interruttore": "switch",
+        "commutatore": "switch",
+        "deviatoio": "switch",
+        "interruttori": "switch"
+    },
+    "voiceNumberMap": {
+        "zero": "0",
+        "uno": "1",
+        "due": "2",
+        "tre": "3",
+        "quattro": "4",
+        "cinque": "5",
+        "sei": "6",
+        "sette": "7",
+        "otto": "8",
+        "nove": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okay",
+        "Va bene",
+        "D'accordo",
+        "Certo",
+        "Fatto",
+        "Come vuoi"
+    ],
+    "voiceTryList": [
+        "Non riesco a trovare il dispositivo, per favore prova questo comando:",
+        "Prova a dire qualcosa come:",
+        "Il sistema supporta questi comandi:",
+        "Questo è un esempio di comando vocale:"
+    ],
+    "voiceWelcome": [
+        "Benvenuto nel sistema di controllo vocale di Home-Dashboard. Per controllare i dispositivi prova ad usare i seguenti comandi:",
+        "Grazie per aver attivato il sistema di controllo vocale di Home-Dashboard. Puoi interagire con i tuoi dispositivi usando i seguenti comandi:"
+    ]
+}
