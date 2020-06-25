@@ -128,5 +128,22 @@
   "setting.sign_out": "Logga ut",
   "setting.sound_effect": "Lydeffekt",
   "setting.write_review": "Skriv omtale",
+
+  "clear-night": "Klart, natt",
+  "cloudy": "Skyet",
+  "exceptional": "Eksepsjonell",
+  "fog": "Tåke",
+  "hail": "Hagl",
+  "lightning": "Lyn",
+  "lightning-rainy": "Lyn, regn",
+  "partlycloudy": "Delvis skyet",
+  "pouring": "Kraftig nedbør",
+  "rainy": "Regn",
+  "snowy": "Snø",
+  "snowy-rainy": "Sludd",
+  "sunny": "Solfylt",
+  "windy": "Vind",
+  "windy-variant": "Vind",
+
   "translator": "kongjudas"
 }

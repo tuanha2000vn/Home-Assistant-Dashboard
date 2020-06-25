@@ -128,5 +128,22 @@
   "setting.sign_out": "Logga ut",
   "setting.sound_effect": "Ljudeffekt",
   "setting.write_review": "Skriv en recension",
+
+  "clear-night": "Klart, natt",
+  "cloudy": "Molnigt",
+  "exceptional": "Exceptionellt",
+  "fog": "Dimma",
+  "hail": "Hagel",
+  "lightning": "Åska",
+  "lightning-rainy": "Åska, regnigt",
+  "partlycloudy": "Delvis molnigt",
+  "pouring": "Ösregn",
+  "rainy": "Regnigt",
+  "snowy": "Snöigt",
+  "snowy-rainy": "Snöigt, regnigt",
+  "sunny": "Soligt",
+  "windy": "Blåsigt",
+  "windy-variant": "Blåsigt",
+
   "translator": "tyre88"
 }

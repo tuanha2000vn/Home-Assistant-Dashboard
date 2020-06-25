@@ -128,5 +128,21 @@
   "setting.sign_out": "Đăng xuất",
   "setting.sound_effect": "Hiệu ứng âm thanh",
   "setting.write_review": "Viết bài đánh giá",
+
+  "clear-night": "Trời trong, đêm",
+  "cloudy": "Nhiều mây",
+  "fog": "Sương mù",
+  "hail": "Mưa đá",
+  "lightning": "Sét",
+  "lightning-rainy": "Sét, mưa",
+  "partlycloudy": "Mây rải rác",
+  "pouring": "Mưa lớn",
+  "rainy": "Mưa",
+  "snowy": "Tuyết",
+  "snowy-rainy": "Tuyết, mưa",
+  "sunny": "Nắng đẹp",
+  "windy": "Gió nhẹ",
+  "windy-variant": "Gió nhẹ",
+
   "translator": "TuanHA"
 }

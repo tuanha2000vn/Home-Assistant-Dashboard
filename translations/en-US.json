@@ -128,5 +128,22 @@
   "setting.sign_out": "Sign out",
   "setting.sound_effect": "Sound effect",
   "setting.write_review": "Write review",
+
+  "clear-night": "Clear, night",
+  "cloudy": "Cloudy",
+  "exceptional": "Exceptional",
+  "fog": "Fog",
+  "hail": "Hail",
+  "lightning": "Lightning",
+  "lightning-rainy": "Lightning, rainy",
+  "partlycloudy": "Partly cloudy",
+  "pouring": "Pouring",
+  "rainy": "Rainy",
+  "snowy": "Snowy",
+  "snowy-rainy": "Snowy, rainy",
+  "sunny": "Sunny",
+  "windy": "Windy",
+  "windy-variant": "Windy",
+
   "translator": "TuanHA"
 }

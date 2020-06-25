@@ -128,5 +128,22 @@
   "setting.sign_out": "Desconectase",
   "setting.sound_effect": "Efetos de sonido",
   "setting.write_review": "Escribir una reseña",
+
+  "clear-night": "Despejado, de noche",
+  "cloudy": "Nublado",
+  "exceptional": "Excepcional",
+  "fog": "Niebla",
+  "hail": "Granizo",
+  "lightning": "Relámpagos",
+  "lightning-rainy": "Relámpagos, lluvioso",
+  "partlycloudy": "Parcialmente nublado",
+  "pouring": "Torrencial",
+  "rainy": "Lluvioso",
+  "snowy": "Nevado",
+  "snowy-rainy": "Nevado, lluvioso",
+  "sunny": "Soleado",
+  "windy": "Ventoso",
+  "windy-variant": "Ventoso",
+
   "translator": "miguelin96"
 }

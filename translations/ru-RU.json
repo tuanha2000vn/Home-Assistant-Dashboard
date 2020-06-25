@@ -128,5 +128,22 @@
   "setting.sign_out": "Выйти",
   "setting.sound_effect": "Звуковой эффект",
   "setting.write_review": "Оставить отзыв",
+
+  "clear-night": "Ясно, ночь",
+  "cloudy": "Облачно",
+  "exceptional": "Предупреждение",
+  "fog": "Туман",
+  "hail": "Град",
+  "lightning": "Молния",
+  "lightning-rainy": "Молния, дождь",
+  "partlycloudy": "Переменная облачность",
+  "pouring": "Ливень",
+  "rainy": "Дождь",
+  "snowy": "Снег",
+  "snowy-rainy": "Снег с дождем",
+  "sunny": "Ясно",
+  "windy": "Ветрено",
+  "windy-variant": "Ветрено",
+
   "translator": "acnupun"
 }

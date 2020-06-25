@@ -128,5 +128,22 @@
     "setting.sign_out": "Sign out",
     "setting.sound_effect": "Sound effect",
     "setting.write_review": "Write review",
+
+    "clear-night": "Limpo, noite",
+    "cloudy": "Nublado",
+    "exceptional": "Excepcional",
+    "fog": "Nevoeiro",
+    "hail": "Granizo",
+    "lightning": "Relâmpago",
+    "lightning-rainy": "Relâmpagos, chuva",
+    "partlycloudy": "Parcialmente nublado",
+    "pouring": "Chuva forte",
+    "rainy": "Chuva",
+    "snowy": "Neve",
+    "snowy-rainy": "Neve, chuva",
+    "sunny": "Sol",
+    "windy": "Vento fraco",
+    "windy-variant": "Vento fraco",
+
     "translator": "TuanHA"
 }

@@ -128,5 +128,22 @@
   "setting.sign_out": "Esci",
   "setting.sound_effect": "Effetto sonoro",
   "setting.write_review": "Scrivi una recensione",
+
+  "clear-night": "Sereno, notte",
+  "cloudy": "Nuvoloso",
+  "exceptional": "Eccezionale",
+  "fog": "Nebbia",
+  "hail": "Grandine",
+  "lightning": "Temporale",
+  "lightning-rainy": "Temporale, piovoso",
+  "partlycloudy": "Parzialmente nuvoloso",
+  "pouring": "Piogge intense",
+  "rainy": "Piovoso",
+  "snowy": "Nevoso",
+  "snowy-rainy": "Nevoso, piovoso",
+  "sunny": "Soleggiato",
+  "windy": "Ventoso",
+  "windy-variant": "Ventoso",
+
   "translator": "Alessandro Alfonzetti"
 }

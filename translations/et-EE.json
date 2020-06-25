@@ -128,5 +128,22 @@
   "setting.sign_out": "Logi välja",
   "setting.sound_effect": "Helieffekt",
   "setting.write_review": "Kirjuta arvustus",
+
+  "clear-night": "Selge öö",
+  "cloudy": "Pilves",
+  "exceptional": "Erakordne",
+  "fog": "Udu",
+  "hail": "Rahe",
+  "lightning": "Äikeseline",
+  "lightning-rainy": "Äikeseline, vihmane",
+  "partlycloudy": "Osaliselt pilves",
+  "pouring": "Kallab",
+  "rainy": "Vihmane",
+  "snowy": "Lumine",
+  "snowy-rainy": "Lörtsine",
+  "sunny": "Päikeseline",
+  "windy": "Tuuline",
+  "windy-variant": "Tuuline",
+
   "translator": "Repsionu"
 }

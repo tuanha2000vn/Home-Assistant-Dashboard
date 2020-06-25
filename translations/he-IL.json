@@ -128,5 +128,22 @@
   "setting.sign_out": "התנתק",
   "setting.sound_effect": "אפקט קולי",
   "setting.write_review": "כתוב ביקרות",
+
+  "clear-night": "לילה בהיר",
+  "cloudy": "מעונן",
+  "exceptional": "יוצא דופן",
+  "fog": "ערפל",
+  "hail": "ברד",
+  "lightning": "ברק",
+  "lightning-rainy": "ברק, גשום",
+  "partlycloudy": "מעונן חלקית",
+  "pouring": "גשום",
+  "rainy": "גשום",
+  "snowy": "מושלג",
+  "snowy-rainy": "מושלג, גשום",
+  "sunny": "שמשי",
+  "windy": "סוער",
+  "windy-variant": "סוער",
+
   "translator": "OmerSH"
 }

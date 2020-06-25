@@ -128,5 +128,22 @@
   "setting.sign_out": "Abmelden",
   "setting.sound_effect": "Soundeffekt",
   "setting.write_review": "Bewertung schreiben",
+
+  "clear-night": "Klare Nacht",
+  "cloudy": "Bewölkt",
+  "exceptional": "Außergewöhnlich",
+  "fog": "Nebel",
+  "hail": "Hagel",
+  "lightning": "Gewitter",
+  "lightning-rainy": "Gewitter, regnerisch",
+  "partlycloudy": "Teilweise bewölkt",
+  "pouring": "Strömend",
+  "rainy": "Regnerisch",
+  "snowy": "Verschneit",
+  "snowy-rainy": "Verschneit, regnerisch",
+  "sunny": "Sonnig",
+  "windy": "Windig",
+  "windy-variant": "Windig",
+
   "translator": "Cm000n, toXel"
 }
