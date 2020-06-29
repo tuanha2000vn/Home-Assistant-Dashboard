@@ -1,0 +1,73 @@
+{
+    "languageAuthor": "Vladimir Todorov",
+    "languageDisplay": "Български",
+    "languageId": "bg_BG",
+    "actionOpen": ["отвори"],
+    "actionClose": ["затвори"],
+    "actionTurnOn": ["включване"],
+    "actionTurnOff": ["изключване"],
+    "voiceAll": [
+        "всички",
+        "всеки",
+        "пълен"
+    ],
+    "voiceCantFindActionList": [
+        "Не мога да разбера гласовата команда, моля опитайте отново.",
+        "Не можем да разберем командата",
+        "Тази команда все още не се поддържа от системата.",
+        "Не можем да разберем какво искаш да кажеш."
+    ],
+    "voiceCantFindEntityList": [
+        "Не можете да намерите устройство, моля, опитайте отново.",
+        "Не знаем нищо, за това устройство.",
+        "Устройството не съществува в системата.",
+        "НЕ моем да разберем, какво имате в предвид.",
+        "Не можем да намерим устройството, което току що повикахте"
+    ],
+    "voiceEntityClassMap": {
+        "blind": "щори",
+        "door": "врата",
+        "curtain": "перде",
+        "ac": "климатиизация",
+        "air conditioner": "климатик",
+        "air conditioning": "климатизиране",
+        "fan": "вентилатор",
+        "light": "осветление",
+        "led": "LED осветление",
+        "bulb": "крушка",
+        "switch": "ключ",
+        "circuit": "верига",
+        "plug": "контакт"
+    },
+    "voiceNumberMap": {
+        "zero": "0",
+        "one": "1",
+        "two": "2",
+        "three": "3",
+        "four": "4",
+        "five": "5",
+        "six": "6",
+        "seven": "7",
+        "eight": "8",
+        "nine": "9"
+    },
+    "voiceOkList": [
+        "OK",
+        "Okay",
+        "Alright",
+        "Got it",
+        "Right away",
+        "Done",
+        "As you please"
+    ],
+    "voiceTryList": [
+        "Can not find device, please try the following command:",
+        "Try saying something like:",
+        "The system support these command:",
+        "Here a the voice command sample:"
+    ],
+    "voiceWelcome": [
+        "Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:",
+        "Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:"
+    ]
+}
