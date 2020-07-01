@@ -19,14 +19,14 @@
   "automation.sensor_value_changed": "La valeur du capteur a changé",
   "automation.specific_time": "Heure spécifique ",
   "automation.sun_rise": "Lever de soleil",
-  "automation.sun_set": " Couché de soleil",
+  "automation.sun_set": "Couché de soleil",
   "automation.then_perform_these_actions": "Effectuez ensuite ces actions ... ",
   "automation.under_these_conditions": "Effectuez ensuite ces actions ... ",
   "automation.when_any_of_those_event_triggered": "Lorsqu'un de ces événements s'est déclenché ... ",
   "button.add_label_text": "Ajouter un texte à l'étiquette ",
   "button.add_new_button": "Ajouter un nouveau bouton ",
   "button.add_new_room": "Ajouter une nouvelle pièce ",
-  "button.add_separator": " Ajouter un séparateur",
+  "button.add_separator": "Ajouter un séparateur",
   "button.cancel": "Annulé",
   "button.close": "Fermé",
   "button.connect": "Connecter",
@@ -110,7 +110,7 @@
   "setting.connected": "Connecté",
   "setting.create_new_connection": "Créer une nouvelle connexion",
   "setting.enable_push_notification": "Activer la notification push",
-  "setting.graphic_quality": " Qualité graphique",
+  "setting.graphic_quality": "Qualité graphique",
   "setting.graphic_quality_high": "Haut",
   "setting.graphic_quality_medium": "Moyen",
   "setting.graphic_quality_low": "Bas",
@@ -128,7 +128,6 @@
   "setting.sign_out": "Déconnexion",
   "setting.sound_effect": "Effet sonore",
   "setting.write_review": "Écrire un avis",
-
   "clear-night": "Nuit dégagée",
   "cloudy": "Nuageux",
   "exceptional": "Exceptionnel",
@@ -144,6 +143,5 @@
   "sunny": "Ensoleillé",
   "windy": "Venteux",
   "windy-variant": "Venteux",
-
   "translator": "sgfred"
 }

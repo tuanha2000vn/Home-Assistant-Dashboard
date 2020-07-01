@@ -118,7 +118,7 @@
   "setting.language": "שפה",
   "setting.last_access": "חיבור אחרון",
   "setting.manual_backup_and_restore": "בצע גיבוי ושחזור ידני",
-  "setting.manual_backup_and_restore_detail": " השתמש במייל לגיבוי ושחזור פרטי חיבור, הגדרות, ותצורת אפליקציה",
+  "setting.manual_backup_and_restore_detail": "השתמש במייל לגיבוי ושחזור פרטי חיבור, הגדרות, ותצורת אפליקציה",
   "setting.master_passcode": "קוד מאסטר",
   "setting.mobile_app_name": "שם ישומון",
   "setting.mobile_app_not_registered": "נייד לא רשום",
@@ -128,7 +128,6 @@
   "setting.sign_out": "התנתק",
   "setting.sound_effect": "אפקט קולי",
   "setting.write_review": "כתוב ביקרות",
-
   "clear-night": "לילה בהיר",
   "cloudy": "מעונן",
   "exceptional": "יוצא דופן",
@@ -144,6 +143,5 @@
   "sunny": "שמשי",
   "windy": "סוער",
   "windy-variant": "סוער",
-
   "translator": "OmerSH"
 }
