@@ -1,0 +1,73 @@
+{
+    "languageAuthor": "WuYue",
+    "languageDisplay": "简体中文",
+    "languageId": "zh_CN",
+    "actionOpen": ["打开"],
+    "actionClose": ["关闭"],
+    "actionTurnOn": ["打开"],
+    "actionTurnOff": ["关闭"],
+    "voiceAll": [
+        "所有",
+        "全部",
+        "每一"
+    ],
+    "voiceCantFindActionList": [
+        "不理解的语音指令，请重新尝试.",
+        "没听懂.",
+        "系统不支持当前指令.",
+        "没明白是什么意思."
+    ],
+    "voiceCantFindEntityList": [
+        "找不到设备, 请重试.",
+        "设备不存在.",
+        "设备跑丢了？",
+        "没明白是什么意思.",
+        "未找到你要访问的设备."
+    ],
+    "voiceEntityClassMap": {
+        "窗": "cover",
+        "门": "cover",
+        "窗帘": "cover",
+        "交流电": "climate",
+        "冷气机": "climate",
+        "空调": "climate",
+        "风扇": "fan",
+        "灯": "light",
+        "led": "light",
+        "灯泡": "light",
+        "开关": "switch",
+        "电路": "switch",
+        "插头": "switch"
+    },
+    "voiceNumberMap": {
+        "零": "0",
+        "一": "1",
+        "二": "2",
+        "三": "3",
+        "四": "4",
+        "五": "5",
+        "六": "6",
+        "七": "7",
+        "八": "8",
+        "九": "9"
+    },
+    "voiceOkList": [
+        "好的",
+        "好",
+        "行",
+        "收到",
+        "马上",
+        "已操作",
+        "如你所愿"
+    ],
+    "voiceTryList": [
+        "未找到你要访问的设备，请尝试如下指令:",
+        "尝试如下说法:",
+        "系统支持如下指令:",
+        "这是一个语音指令示例:"
+    ],
+    "voiceWelcome": [
+        "欢迎使用Home-Dashboard语音控制系统. 请使用如下指令来控制你的设备:",
+        "感谢使用Home-Dashboard语音控制系统. 你可以使用如下指令启用你的设备:"
+    ]
+}
