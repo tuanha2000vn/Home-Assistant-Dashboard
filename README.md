@@ -50,6 +50,8 @@ Edit the following existing file or create new file for missing language.
 
 * https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/vi-VN.json
 
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/translations/zh-CN.json
+
 ***
 
 ## Help add voice support to your language
@@ -84,3 +86,4 @@ Then edit those files:
 
 * https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/vi_VN.json
 
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/voices/zh_CN.json
