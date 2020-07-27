@@ -21,31 +21,30 @@
     "Nous ne trouvons pas l'appareil que vous demandez."
   ],
   "voiceEntityClassMap": {
-    "blind": "cover",
-    "door": "cover",
-    "curtain": "cover",
+    "store": "cover",
+    "porte": "cover",
+    "rideau": "cover",
     "ac": "climate",
-    "air conditioner": "climate",
-    "air conditioning": "climate",
-    "fan": "fan",
-    "light": "light",
+    "climatisation": "climate",
+    "ventilateur": "fan",
+    "lumière": "light",
     "led": "light",
-    "bulb": "light",
-    "switch": "switch",
+    "lampe": "light",
+    "interrupteur": "switch",
     "circuit": "switch",
-    "plug": "switch"
+    "prise": "switch"
   },
   "voiceNumberMap": {
     "zero": "0",
-    "one": "1",
-    "two": "2",
-    "three": "3",
-    "four": "4",
-    "five": "5",
+    "un": "1",
+    "deux": "2",
+    "trois": "3",
+    "quatre": "4",
+    "cinq": "5",
     "six": "6",
-    "seven": "7",
-    "eight": "8",
-    "nine": "9"
+    "sept": "7",
+    "huit": "8",
+    "neuf": "9"
   },
   "voiceOkList": [
     "OK",
