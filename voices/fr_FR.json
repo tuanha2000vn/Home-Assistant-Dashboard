@@ -2,11 +2,25 @@
   "languageAuthor": "GM-WEBDESIGN",
   "languageDisplay": "Français",
   "languageId": "fr_FR",
-  "actionOpen": ["ouvrir"],
-  "actionClose": ["fermer"],
-  "actionTurnOn": ["active", "allume"],
-  "actionTurnOff": ["désactive", "éteint"],
-  "voiceAll": ["all the", "every", "entire"],
+  "actionOpen": [
+    "ouvrir"
+  ],
+  "actionClose": [
+    "fermer"
+  ],
+  "actionTurnOn": [
+    "active",
+    "allume"
+  ],
+  "actionTurnOff": [
+    "désactive",
+    "éteint"
+  ],
+  "voiceAll": [
+    "tous les",
+    "tout",
+    "toute"
+  ],
   "voiceCantFindActionList": [
     "Commande vocale incomprise, réessayez.",
     "Nous ne comprenons pas cette commande.",
