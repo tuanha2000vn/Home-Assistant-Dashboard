@@ -1,81 +1,80 @@
 {
-    "languageAuthor": "TuanHA",
-    "languageDisplay": "Portuguese",
+    "languageAuthor": "João Moreira - Obvio",
+    "languageDisplay": "Português",
     "languageId": "pt_PT",
     "actionOpen": [
-        "open"
+        "abrir"
     ],
     "actionClose": [
-        "close"
+        "fechar"
     ],
     "actionTurnOn": [
-        "turn on"
+        "ligar"
     ],
     "actionTurnOff": [
-        "turn off"
+        "desligar"
     ],
     "voiceAll": [
-        "all the",
-        "every",
-        "entire"
+        "todos os",
+        "todos"
     ],
     "voiceCantFindActionList": [
-        "Can not understand the voice command, please try again.",
-        "We can't understand this command.",
-        "This command is not yet supported by the system.",
-        "We can't figure out what you mean."
+        "Não foi consegui entender, por favor tente novamente.",
+        "Não consegui entender esse comando.",
+        "Esse comando não é suportado.",
+        "Não foi possível entender."
     ],
     "voiceCantFindEntityList": [
-        "Can not find device, please try again.",
-        "We don't know about this device.",
-        "The device does not exist in the system.",
-        "We can't figure out what you mean.",
-        "We can not find the device you just called."
+        "Não foi possível encontrar o dispositivo, por favor tente novamente.",
+        "Não encontro esse dispositivo.",
+        "O dispositivo não existe.",
+        "Não foi possivel encontrar esse dispositivo.",
+        "O dispositivo a que se refere não foi encontrado."
     ],
     "voiceEntityClassMap": {
-        "blind": "cover",
-        "door": "cover",
-        "curtain": "cover",
-        "ac": "climate",
-        "air conditioner": "climate",
-        "air conditioning": "climate",
-        "fan": "fan",
-        "light": "light",
-        "led": "light",
-        "bulb": "light",
-        "switch": "switch",
-        "circuit": "switch",
-        "plug": "switch"
+        "blind": "tela",
+        "door": "porta",
+        "curtain": "cortina",
+        "ac": "climatização",
+        "air conditioner": "ar condicionado",
+        "air conditioning": "ar condicionado",
+        "fan": "ventoinha",
+        "light": "luz",
+        "led": "led",
+        "bulb": "lâmpada",
+        "switch": "interrupto",
+        "circuit": "circuito",
+        "plug": "tomada"
     },
     "voiceNumberMap": {
         "zero": "0",
-        "one": "1",
-        "two": "2",
-        "three": "3",
-        "four": "4",
-        "five": "5",
-        "six": "6",
-        "seven": "7",
-        "eight": "8",
-        "nine": "9"
+        "um": "1",
+        "dois": "2",
+        "três": "3",
+        "quatro": "4",
+        "cinco": "5",
+        "seis": "6",
+        "sete": "7",
+        "oito": "8",
+        "nove": "9"
     },
     "voiceOkList": [
         "OK",
         "Okay",
-        "Alright",
-        "Got it",
+        "Tudo bem",
+        "Entendido",
         "Right away",
-        "Done",
-        "As you please"
+        "Feito",
+        "Como deseja"
     ],
     "voiceTryList": [
-        "Can not find device, please try the following command:",
-        "Try saying something like:",
-        "The system support these command:",
-        "Here a the voice command sample:"
+        "Não foi possível encontrar esse dispositivo, por favor tente o comando seguinte:",
+        "Tente dizer algo como:",
+        "Esse comando não é suportado, tente:",
+        "Aqui está um exemplo:"
     ],
     "voiceWelcome": [
-        "Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:",
-        "Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:"
+        "Bem vindo ao sistema de controlo por voz do Home-Dashboard. Para controlar dispositivos, tente os seguintes comandos:",
+        "Obrigado por ativar o sistema de controlo por voz do Home-Dashboard. Pode ativar os dispositvos utilizando os seguintes comandos:"
     ]
 }
