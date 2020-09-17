@@ -128,6 +128,8 @@
     "setting.sign_out": "Sair",
     "setting.sound_effect": "Tom de toque",
     "setting.write_review": "Escrever opinião",
+    "setting.add_child_account": "Adicionar conta infantil",
+    "setting.invited_child_account": "Conta de criança convidada",
 
     "clear-night": "Limpo, noite",
     "cloudy": "Nublado",
@@ -144,6 +146,5 @@
     "sunny": "Sol",
     "windy": "Vento fraco",
     "windy-variant": "Vento fraco",
-
     "translator": "João Moreira - Obvio"
 }
