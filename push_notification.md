@@ -25,9 +25,11 @@ To enable this feature, please follow these 3 easy steps
 
 ## 4. Automatically send Notification to Home-Dashboard
 
-First, we need to edit ***configuration.yaml*** by adding the following line:
-
-Allow Home Assistant write file into www folder:
+First, we need to create folder www inside config if you don't already have one.
+```
+config/www
+```
+Then edit ***configuration.yaml*** by adding the following line to enable Home Assistant write file into www folder:
 
 ```
 homeassistant:
@@ -47,8 +49,6 @@ notify:
       - service: mobile_app_hdb_mobile_app_2345
       - service: mobile_app_hdb_mobile_app_3456
 ```
-<br>
-<br>
 Send a simple notification when the light turned on
 
 ```
@@ -64,8 +64,6 @@ automation:
           title: Simple Notification 
           message: Light Turned On
 ```
-<br>
-<br>
 Send a notification with image whenever garage door is opened
 (Replace http://home-dashboard.duckdns.org:8123/local/camera_1.jpg with your own data)
 
