@@ -1,0 +1,67 @@
+{
+  "languageAuthor": "Gizmopower1",
+  "languageDisplay": "Norsk Bokmål",
+  "languageId": "nb_NO",
+  "actionOpen": ["åpne"],
+  "actionClose": ["lukk"],
+  "actionTurnOn": ["slå på"],
+  "actionTurnOff": ["slå av"],
+  "voiceAll": [
+    "alle"
+  ],
+  "voiceCantFindActionList": [
+    "Jeg kan ikke forstå hva du sier, prøv igjen.",
+    "Jeg forstår ikke hva du forsøker å gjøre.",
+    "Denne kommandoen fungerer ikke akkurat nå.",
+    "Ha! nei så smart er jeg ikke."
+  ],
+  "voiceCantFindEntityList": [
+    "Jeg kan ikke finne enheten, prøv igjen.",
+    "Denne enheten finnes ikke i din konfigurasjon."
+  ],
+  "voiceEntityClassMap": {
+    "rullegardin": "cover",
+    "dør": "cover",
+    "gardin": "cover",
+    "gardiner": "cover",
+    "ac": "climate",
+    "air conditioner": "climate",
+    "varmepumpe": "climate",
+    "luftrenser": "climate",
+    "klimaanlegg": "climate",
+    "vifte": "fan",
+    "lys": "light",
+    "strømbryter": "switch",
+    "switch": "switch",
+    "plugg": "switch"
+  },
+  "voiceNumberMap": {
+    "null": "0",
+    "en": "1",
+    "to": "2",
+    "tre": "3",
+    "fire": "4",
+    "fem": "5",
+    "seks": "6",
+    "syv": "7",
+    "åtte": "8",
+    "ni": "9"
+  },
+  "voiceOkList": [
+    "OK",
+    "Okei",
+    "Oppfattet",
+    "På g..",
+    "Klart",
+    "Som du vill"
+  ],
+  "voiceTryList": [
+    "Kan ikke finne enheten, vennligst prøv igjen:",
+    "Jeg finner ikke denne enheten:",
+    "Denne enheten finnes ikke i systemet:"
+  ],
+  "voiceWelcome": [
+    "Velkommen til Home-Dashboards stemme assistent, for å kontrollere enheter vennligst prøv noen av de følgende kommandoer:",
+    "Takk får att du bruker Home-Dashboards stemme assistent. Du kan styre dine enheter ved hjelp av følgende kommandoer:"
+  ]
+}
