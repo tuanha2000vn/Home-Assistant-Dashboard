@@ -14,6 +14,16 @@ Github (Android Only): https://github.com/tuanha2000vn/Home-Assistant-Dashboard/
 
 ***
 
+## Notification
+
+![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_1.png?raw=true)
+
+* The new version bring a deeper integration into Home Assistant. You can now register #Home-Dashboard as a Mobile App and allow sending notification to your device. No additional custom component required.
+
+To enable this feature, please follow these 3 easy steps
+
+* https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/push_notification.md
+
 ## Automation
 
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_2.png?raw=true)
