@@ -33,7 +33,7 @@ Then edit ***configuration.yaml*** by adding the following line to enable Home A
 
 ```
 homeassistant:
-  whitelist_external_dirs:
+  allowlist_external_dirs:
     - /config/www
 ```
 

@@ -33,7 +33,7 @@ If you want to send notification with picture, create a folder name `www` inside
 
 ```yaml
 homeassistant:
-  whitelist_external_dirs:
+  allowlist_external_dirs:
     - /config/www
 ```
 ***
