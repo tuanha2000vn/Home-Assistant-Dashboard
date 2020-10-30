@@ -98,4 +98,4 @@ automation:
 ```
 mobile_app:
 ```
-https://developers.home-assistant.io/docs/en/app_integration_setup.html
+https://developers.home-assistant.io/docs/api/native-app-integration/
