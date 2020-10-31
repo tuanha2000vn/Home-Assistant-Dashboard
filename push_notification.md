@@ -19,11 +19,7 @@ To enable this feature, please follow these 3 easy steps
 ![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_4.png)
 <br>A notification with picture will appear in your device.
 
-## 3. Delete Mobile App Integration
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_5.png)
-<br>Go to Home Assistant > Configuration > Integrations > Mobile App: <App Name> and click the recycle bin icon.
-
-## 4. Automatically send Notification to Home-Dashboard
+## 3. Automatically send Notification to Home-Dashboard
 
 First, we need to create folder www inside config if you don't already have one.
 ```
@@ -88,9 +84,8 @@ automation:
           image: http://home-dashboard.duckdns.org:8123/local/camera_1.jpg
       service: notify.ALL_DEVICES   
 ```
-![alt text](https://github.com/tuanha2000vn/Home-Assistant-Dashboard/blob/master/images/push_notification_6.png)
 
-## 5. Troubleshooting
+## 4. Troubleshooting
 
 ### Error 404 during Mobile App registration:
 - Make sure you have ***default_config:*** in configuration.yaml
