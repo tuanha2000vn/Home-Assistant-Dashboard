@@ -38,16 +38,16 @@ homeassistant:
 ```
 
 Add notify.ALL_DEVICES service:
-(Replace mobile_app_hdb_mobile_app_1234 with your registered device name)
+(Replace mobile_app_hdb_12345678 with your registered device name)
 
 ```
 notify:
   - name: ALL_DEVICES
     platform: group
     services:
-      - service: mobile_app_hdb_mobile_app_1234
-      - service: mobile_app_hdb_mobile_app_2345
-      - service: mobile_app_hdb_mobile_app_3456
+      - service: mobile_app_hdb_12345678
+      - service: mobile_app_hdb_23456789
+      - service: mobile_app_hdb_34567890
 ```
 Send a simple notification when the light turned on
 
