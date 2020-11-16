@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Kui mõni sündmustest toimus...",
   "button.add_label_text": "Lisa sildi tekst",
   "button.add_new_button": "Lisa uus ikoon",
+  "button.add_remove_button": "Nupud Lisa / eemalda",
   "button.add_new_room": "Lisa uus ruum",
   "button.add_separator": "Lisa eraldaja",
   "button.cancel": "Loobu",

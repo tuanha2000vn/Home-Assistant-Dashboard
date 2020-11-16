@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "When any of those event triggered...",
   "button.add_label_text": "Add label text",
   "button.add_new_button": "Add new button",
+  "button.add_remove_button": "Add / Remove buttons",
   "button.add_new_room": "Add new room",
   "button.add_separator": "Add separator",
   "button.cancel": "Cancel",

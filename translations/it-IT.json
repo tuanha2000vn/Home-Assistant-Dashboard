@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Quando uno di questi eventi viene scatenato...",
   "button.add_label_text": "Aggiungi testo",
   "button.add_new_button": "Aggiungi una nuova entità",
+  "button.add_remove_button": "Pulsanti Aggiungi / Rimuovi",
   "button.add_new_room": "Aggiungi una nuova stanza",
   "button.add_separator": "Aggiungi un separatore",
   "button.cancel": "Cancella",

@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Vad någon av dessa händelser...",
   "button.add_label_text": "Lägg till etikett text",
   "button.add_new_button": "Lägg till ny knapp",
+  "button.add_remove_button": "Lägg till / ta bort knappar",
   "button.add_new_room": "Lägg till rum",
   "button.add_separator": "Lägg till avskiljare",
   "button.cancel": "Avbryt",

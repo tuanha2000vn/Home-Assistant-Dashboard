@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Ved noen av disse hendelsene...",
   "button.add_label_text": "Legg til etikett-tekst",
   "button.add_new_button": "Legg til ny knapp",
+  "button.add_remove_button": "Legg til / fjern knapper",
   "button.add_new_room": "Legg til rom",
   "button.add_separator": "Legg til avskiller",
   "button.cancel": "Avbryt",

@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Когда произошло одно из ...",
   "button.add_label_text": "Добавить Метку текста",
   "button.add_new_button": "Добавить Кнопку",
+  "button.add_remove_button": "Добавить / удалить кнопки",
   "button.add_new_room": "Добавить Комнату",
   "button.add_separator": "Добавить Разделитель",
   "button.cancel": "Отмена",

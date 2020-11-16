@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Lorsqu'un de ces événements s'est déclenché ... ",
   "button.add_label_text": "Ajouter un texte à l'étiquette ",
   "button.add_new_button": "Ajouter un nouveau bouton ",
+  "button.add_remove_button": "Ajouter / supprimer des boutons",
   "button.add_new_room": "Ajouter une nouvelle pièce ",
   "button.add_separator": "Ajouter un séparateur",
   "button.cancel": "Annuler",

@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "שאחד מהאירועים הבאים מופעלים",
   "button.add_label_text": "הוספת תווית חדשה",
   "button.add_new_button": "הוספת כפתור חדש",
+  "button.add_remove_button": "לחצני הוספה / הסרה",
   "button.add_new_room": "הוספת חדר חדש",
   "button.add_separator": "הוספת מפריד",
   "button.cancel": "ביטול",

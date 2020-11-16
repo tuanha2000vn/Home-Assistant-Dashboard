@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Wanneer aan 1 van deze voorwaarden voldaan is...",
   "button.add_label_text": "Voeg tekst toe",
   "button.add_new_button": "Voeg nieuwe knop toe",
+  "button.add_remove_button": "Knoppen toevoegen / verwijderen",
   "button.add_new_room": "Kamer toevoegen",
   "button.add_separator": "Scheiding toevoegen",
   "button.cancel": "Annuleer",

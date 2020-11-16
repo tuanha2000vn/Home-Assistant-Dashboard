@@ -26,6 +26,7 @@
   "automation.when_any_of_those_event_triggered": "Когато някое от тези събития се задейства...",
   "button.add_label_text": "Добавете текст на етикета",
   "button.add_new_button": "Добавете нов бутон",
+  "button.add_remove_button": "Schaltflächen hinzufügen / entfernen",
   "button.add_new_room": "Добавете нова стая",
   "button.add_separator": "Добавете секция/разделите",
   "button.cancel": "Отказ",

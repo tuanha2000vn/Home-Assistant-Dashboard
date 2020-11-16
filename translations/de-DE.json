@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Wenn eines dieser Ereignisse ausgelöst wurde...",
   "button.add_label_text": "Beschriftung hinzufügen",
   "button.add_new_button": "Neue Schaltfläche hinzufügen",
+  "button.add_remove_button": "Schaltflächen hinzufügen / entfernen",
   "button.add_new_room": "Neuen Raum hinzufügen",
   "button.add_separator": "Trenner hinzufügen",
   "button.cancel": "Abbrechen",

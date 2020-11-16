@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "Khi bất kỳ sự kiện nào xảy ra...",
   "button.add_label_text": "Thêm chữ",
   "button.add_new_button": "Thêm nút",
+  "button.add_remove_button": "Thêm / Bớt nút",
   "button.add_new_room": "Thêm phòng",
   "button.add_separator": "Thêm ngăn cách",
   "button.cancel": "Hủy",

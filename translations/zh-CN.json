@@ -25,6 +25,7 @@
   "automation.when_any_of_those_event_triggered": "当以下这些事件中的任何一个触发时",
   "button.add_label_text": "添加标签文本",
   "button.add_new_button": "添加新的按钮",
+  "button.add_remove_button": "添加/删除按钮",
   "button.add_new_room": "添加新的房间",
   "button.add_separator": "添加分割线",
   "button.cancel": "取消",
