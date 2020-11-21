@@ -50,7 +50,7 @@
   "class.alarm_control_panel": "Панель Охраны",
   "class.binary_sensor": "Бинарный сенсор",
   "class.climate": "Климат",
-  "class.cover": "Заграждение",
+  "class.cover": "Штора",
   "class.fan": "Вентилятор",
   "class.group": "Группа",
   "class.input_boolean": "Ввод boolean",
