@@ -1,73 +1,73 @@
 {
-    "languageAuthor": "TuanHA",
+    "languageAuthor": "AlexSZ",
     "languageDisplay": "Русский (Need Translation)",
-    "languageId": "en_US",
-    "actionOpen": ["open"],
-    "actionClose": ["close"],
-    "actionTurnOn": ["turn on"],
-    "actionTurnOff": ["turn off"],
+    "languageId": "ru_RU",
+    "actionOpen": ["открой"],
+    "actionClose": ["закрой"],
+    "actionTurnOn": ["включи"],
+    "actionTurnOff": ["выключи"],
     "voiceAll": [
-        "all the",
-        "every",
-        "entire"
+        "все",
+        "весь",
+        "всю"
     ],
     "voiceCantFindActionList": [
-        "Can not understand the voice command, please try again.",
-        "We can't understand this command.",
-        "This command is not yet supported by the system.",
-        "We can't figure out what you mean."
+        "Не могу разобрать голосовую команду, пожалуйста, повторите.",
+        "Не могу понять эту команду.",
+        "Эта команда ещё не поддерживается системой.",
+        "Не могу понять, что вы имеете в виду."
     ],
     "voiceCantFindEntityList": [
-        "Can not find device, please try again.",
-        "We don't know about this device.",
-        "The device does not exist in the system.",
-        "We can't figure out what you mean.",
-        "We can not find the device you just called."
+        "Не могу найти устройство, пожалуйста, попробуйте ещё раз.",
+        "Я ничего не знаю про это устройство.",
+        "Такого устройства в системе нет.",
+        "Не могу понять, чего вы хотите.",
+        "Не могу найти устройство, которое вы назвали."
     ],
     "voiceEntityClassMap": {
-        "blind": "cover",
-        "door": "cover",
-        "curtain": "cover",
-        "ac": "climate",
-        "air conditioner": "climate",
-        "air conditioning": "climate",
-        "fan": "fan",
-        "light": "light",
-        "led": "light",
-        "bulb": "light",
-        "switch": "switch",
-        "circuit": "switch",
-        "plug": "switch"
+        "шторы": "cover",
+        "дверь": "cover",
+        "занавески": "cover",
+        "кондей": "climate",
+        "кондиционер": "climate",
+        #"air conditioning": "climate",
+        "вентилятор": "fan",
+        "свет": "light",
+        #"led": "light",
+        "лампочка": "light",
+        "выключатель": "switch",
+        #"circuit": "switch",
+        "розетка": "switch"
     },
     "voiceNumberMap": {
-        "zero": "0",
-        "one": "1",
-        "two": "2",
-        "three": "3",
-        "four": "4",
-        "five": "5",
-        "six": "6",
-        "seven": "7",
-        "eight": "8",
-        "nine": "9"
+        "ноль": "0",
+        "один": "1",
+        "два": "2",
+        "три": "3",
+        "четыре": "4",
+        "пять": "5",
+        "шесть": "6",
+        "семь": "7",
+        "восемь": "8",
+        "девять": "9"
     },
     "voiceOkList": [
         "OK",
-        "Okay",
-        "Alright",
-        "Got it",
-        "Right away",
-        "Done",
-        "As you please"
+        "Окей",
+        "Хорошо",
+        "Ясно",
+        "Сейчас сделаю",
+        "Готово",
+        "Как скажете"
     ],
     "voiceTryList": [
-        "Can not find device, please try the following command:",
-        "Try saying something like:",
-        "The system support these command:",
-        "Here a the voice command sample:"
+        "Не могу найти устройство, попробуйте следующие команды:",
+        "Попробуйте сказать что-то вроде:",
+        "Система поддерживает следующие команды:",
+        "Это образец голосовой команды:"
     ],
     "voiceWelcome": [
-        "Welcome to Home-Dashboard voice control system. To control devices, please try use the following commands:",
-        "Thank you for activating Home-Dashboard's voice control system. You can activate with most devices using the following commands:"
+        "Добро пожаловать в систему голосового управления Хоум-Дашборд. Для управления устройствами, попробуйте использовать следующие команды:",
+        "Спасибо за активацию системы голосового управления Хоум-Дашборд. Вы можете управлять большинством устройств, используя следующие команды:"
     ]
 }
