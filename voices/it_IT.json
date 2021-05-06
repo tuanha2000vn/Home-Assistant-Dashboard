@@ -4,8 +4,12 @@
     "languageId": "it_IT",
     "actionOpen": ["aperto"],
     "actionClose": ["chiuso"],
-    "actionTurnOn": ["accendi"],
-    "actionTurnOff": ["spegni"],
+    "actionTurnOn": ["accendi",
+                     "apri"
+    ],
+    "actionTurnOff": ["spegni",
+                      "chiudi"
+    ],
     "voiceAll": [
         "tutti",
         "tutte",
