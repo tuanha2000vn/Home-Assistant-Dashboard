@@ -1,0 +1,77 @@
+{
+    "languageAuthor": "teqali",
+    "languageDisplay": "Turkish",
+    "languageId": "tr_TR",
+    "actionOpen": ["aç"],
+    "actionClose": ["kapat"],
+    "actionTurnOn": ["aç"],
+    "actionTurnOff": ["kapat"],
+    "voiceAll": [
+        "hepsi",
+        "herşey",
+        "tamamı"
+    ],
+    "voiceCantFindActionList": [
+        "Sesli komutu anlayamıyorum, lütfen tekrar deneyiniz.",
+        "Bu komutu anlayamıyoruz.",
+        "Bu komut henüz sistem tarafından desteklenmiyor.",
+        "Ne demek istediğini anlayamıyoruz."
+    ],
+    "voiceCantFindEntityList": [
+        "Cihaz bulunamadı, lütfen tekrar deneyiniz.",
+        "Bu cihaz hakkında bilgimiz yok.",
+        "Cihaz sistemde mevcut değil.",
+        "Ne demek istediğini anlayamıyoruz.",
+        "Az önce aradığınız cihazı bulamıyoruz."
+    ],
+    "voiceEntityClassMap": {
+        "stor": "cover",
+        "kapı": "cover",
+        "perde": "cover",
+        "klima": "climate",
+        "iklimlendirme": "climate",
+        "sağutma": "climate",
+        "fan": "fan",
+        "vantilatör": "fan",
+        "lamba": "light",
+        "ampül": "light",
+        "led": "light",
+        "ışık": "light",
+        "düğme": "switch",
+        "anahtar": "switch",
+        "devre": "switch",
+        "fiş": "switch",
+        "priz": "switch"
+    },
+    "voiceNumberMap": {
+        "sıfır": "0",
+        "bir": "1",
+        "iki": "2",
+        "üç": "3",
+        "dört": "4",
+        "beş": "5",
+        "altı": "6",
+        "yedi": "7",
+        "sekiz": "8",
+        "dokuz": "9"
+    },
+    "voiceOkList": [
+        "TAMAM",
+        "Tamamdır",
+        "Peki",
+        "Anlaşıldı",
+        "Right away",
+        "Tamam",
+        "Nasıl istersen"
+    ],
+    "voiceTryList": [
+        "Cihaz bulunamıyor, lütfen aşağıdaki komutu deneyiniz:",
+        "Şuna benzer birşeyler söylemeyi deneyiniz:",
+        "Sistem bu komutları destekliyor:",
+        "İşte bir sesli komut örneği:"
+    ],
+    "voiceWelcome": [
+        "Home-Dashboard sesli kontrol sistemine hoş geldiniz. Cihazları kontrol etmek için lütfen aşağıdaki komutları kullanmayı deneyin:",
+        "Home-Dashboard'un sesli kontrol sistemini etkinleştirdiğiniz için teşekkür ederiz. Aşağıdaki komutları kullanarak çoğu cihazla etkinleştirebilirsiniz:"
+    ]
+}
